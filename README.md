@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hola! 👋
 
 
 
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning 2DAM
+- 🔭 Estoy actualmente trabajando en proyectos personales
+- 🌱 Estos estudiando 2do de DAM
 
 
 # Tecnologías y herramientas 🛠️
